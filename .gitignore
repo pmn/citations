@@ -3,6 +3,9 @@ logs
 *.log
 npm-debug.log*
 
+# Lambda artifacts
+*.zip
+
 # Runtime data
 pids
 *.pid
